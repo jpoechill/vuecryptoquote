@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Screenshot
+
+![Screenshot](/static/vuecryptoquote-ss.png)
+
 ## Build Setup
 
 ``` bash
